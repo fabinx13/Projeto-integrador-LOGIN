@@ -1,0 +1,102 @@
+.conta{
+    display: flex;
+    justify-content: center;
+}
+
+.email{
+    display: flex;
+    justify-content: center;
+    border: 2px solid black;
+    border-radius: 5px;
+    width: 300px;
+    color: gray;
+}
+
+.login{
+    display: flex;
+    justify-content: center;
+    border: 2px solid black;
+    border-radius: 5px;
+    width: 300px;
+    background-color: black;
+    color: white;
+}
+
+.continue{
+    display: flex;
+    justify-content: center;
+   
+}
+
+.google{
+    display: flex;
+    justify-content: center;
+    border: 2px solid black;
+    border-radius: 5px;
+    width: 300px;
+    background-color: rgb(235, 235, 235);
+}
+
+.site{
+    display: flex;
+    justify-content: center;
+}
+
+.Tudo{
+    font-family: Arial, Helvetica, sans-serif;
+   
+   
+}
+
+.Termos{
+    color: gray;
+}
+
+.linha{
+    border-bottom: 2px solid #ccc;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+}
+
+.tudo-email{
+    display: flex;
+    justify-content: center;
+}
+
+.tudo-login{
+    display: flex;
+    justify-content: center;
+}
+
+.tudo-google{
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+
+.tudo-termos{
+    display: flex;
+    justify-content: center;
+   
+}
+
+.serviço{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 250px;
+}
+
+.foto {
+    width: 50%; /* Define a largura desejada para o contêiner da imagem */
+}
+
+.foto img {
+    width: 5%; /* Faz com que a imagem ocupe 100% da largura do contêiner */
+    height: auto; /* Mantém a proporção da imagem */
+    display: flex;
+    justify-content: center;
+}
+
+#iconeGoogle{
+    
+}
